@@ -23,8 +23,8 @@
 
 #### [meemx.github.io](https://github.com/meemx/meemx.github.io)
 ```markdown
-> 传送门：https://github.com/meemx/meemx.github.io
-> 2019年10月10日开源，为GitHub个人主页
++ 传送门：https://github.com/meemx/meemx.github.io
++ 2019年10月10日开源，为GitHub个人主页
 ```
 
 ### 建议与联系
