@@ -1,37 +1,37 @@
-## Welcome to My GitHub Pages
+## 欢迎访问我的GitHub个人主页
 
-You can use the [editor on GitHub](https://github.com/meemx/meemx.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+你可以通过 [GitHub Pages](https://meemx.github.io) 来访问该主页，当然你也可以访问 [www.meemx.com](https://www.meemx.com) 来重定向到该主页。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+欢迎你对项目的Star与Fork，同时期待你的建议与反馈！
 
-### Markdown
+### 我的个人页面
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+当前有如下域名，部分已经完成部署上线~
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+1. www.zstar.me   【瀚海星云】
+2. www.vzstar.com 【ZSTAR】
+3. www.meemx.com  【GitHub Pages】
+4. zstar.org
+5. msnug.com
+6. xplus.cn
+7. illk.com
 
-- Bulleted
-- List
+```
+欢迎访问我的网站~
 
-1. Numbered
-2. List
+### GitHub项目
+当前已开源的GitHub项目如下，欢迎Star与Fork~
 
-**Bold** and _Italic_ and `Code` text
+```markdown
 
-[Link](url) and ![Image](src)
+**1. [eemx.github.io]https://meemx.github.io)**
+2019年10月10日开源，为GitHub个人主页
+
+
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 建议与联系
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/meemx/meemx.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+如果有任何问题，或者对项目有什么好的意见与反馈，欢迎随时通过我的网站联系我或直接在项目下反馈。一起为开源努力~
