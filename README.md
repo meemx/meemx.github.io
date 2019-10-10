@@ -16,7 +16,7 @@
 4. zstar.org
 5. msnug.com
 6. xplus.cn
-7. illk.com
+7. zillk.com
 
 ```
 欢迎访问我的网站~
@@ -26,7 +26,7 @@
 
 ```markdown
 
-**1. [eemx.github.io]https://meemx.github.io)**
+**[meemx.github.io]https://meemx.github.io)**
 2019年10月10日开源，为GitHub个人主页
 
 
