@@ -8,17 +8,14 @@
 
 当前有如下域名，部分已经完成部署上线~
 
-```markdown
+> 1. www.zstar.me   【瀚海星云】
+> 2. www.vzstar.com 【ZSTAR】
+> 3. www.meemx.com  【GitHub Pages】
+> 4. zstar.org
+> 5. msnug.com
+> 6. xplus.cn
+> 7. zillk.com
 
-1. www.zstar.me   【瀚海星云】
-2. www.vzstar.com 【ZSTAR】
-3. www.meemx.com  【GitHub Pages】
-4. zstar.org
-5. msnug.com
-6. xplus.cn
-7. zillk.com
-
-```
 欢迎访问我的网站~
 
 ### GitHub项目
