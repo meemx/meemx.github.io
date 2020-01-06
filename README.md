@@ -1,4 +1,4 @@
-## 欢迎访问我的GitHub个人主页
+## 觅MX梦 - GitHub个人主页
 
 你可以通过 [GitHub Pages](https://meemx.github.io) 来访问该主页，当然你也可以访问 [www.meemx.com](https://www.meemx.com) 来重定向到该主页。
 
